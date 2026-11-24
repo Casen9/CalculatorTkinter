@@ -6,7 +6,12 @@
 > If it happens, make sure to set an exception for this file and/or temporarily turn off the Smart App Control in Windows Security to open the `.exe`.<br>
 > The program is open-source meaning you can always examine the code yourself before executing the application.
 
-This project was made for fun, mainly to exercise coding in Python and using new libraries (like Tkinter). It also helped me to understand better object programming.
+This project was made for fun, mainly to exercise coding in Python and using new libraries (like Tkinter). It also helped me to understand better object programming.<br>
+The application is **fully resizable** with the minimal size set.
+
+| Normal mode | Advanced mode | Physics mode | Full extended mode |
+|:-----------:|:-------------:|:------------:|:------------------:|
+| <img src="screenshots/main.png" width="100%"> | <img src="screenshots/advancedMode.png" width="100%"> | <img src="screenshots/physicsMode.png" width="100%"> | <img src="screenshots/fullExtendedMode.png" width="100%"> |
 
 ## Most useful keybinds:
 - `0` - `9` - numbers from 0 to 9
@@ -23,15 +28,19 @@ This project was made for fun, mainly to exercise coding in Python and using new
 - `!` - Newton
 - `e`<sup>**b**</sup> - elementary charge [C]
 - `g`<sup>**b**</sup> - Earth's gravitational acceleration [m/s<sup>2</sup>]
-- `G`<sup>**b**</sup> - gravitational constant [N⋅m<sup>2</sup>/kg<sup>2</sup>]<br>
+- `G`<sup>**b**</sup> - gravitational constant [N⋅m<sup>2</sup>/kg<sup>2</sup>]
+
 You can find all a list of all keybinds in `Calculator -> Settings -> Keybinds`.
 
-Footer:
 > <sup>**a**</sup> - if Physics mode is on: speed of light [m/s].<br>
 > <sup>**b**</sup> - works only if Physics mode is on.
 
+| Keybinds tab |
+|:-----------:|
+| <img src="screenshots/settings_keybinds.png" width="100%"> |
+
 ## Themes
-There are a few themes you can set in Settings:
+There are various themes you can set in Settings:
 - Blue
 - Red
 - Orange
@@ -41,11 +50,23 @@ There are a few themes you can set in Settings:
 - Twilight
 - Frost
 
+| Themes tab |
+|:-----------:|
+| <img src="screenshots/settings_appearance.png" width="100%"> |
+
 ## History
-You can view and delete your history of preformed equations in Settings.
+You can view and delete your history of performed equations in Settings.
+
+| History tab |
+|:-----------:|
+| <img src="screenshots/settings_history.png" width="100%"> |
 
 ## Physics
 You can also edit all Physics constant variables in Settings.
+
+| Physics tab | Physics topbar |
+|:-----------:|:--------------:|
+| <img src="screenshots/settings_physics.png" width="100%"> | <img src="screenshots/topbar_physics.png" width="100%"> |
 
 > [!TIP]
 > If you are willing to download the source code (`Calculator.py`) and run it with your own interpreter:<br>
@@ -66,3 +87,7 @@ You can also edit all Physics constant variables in Settings.
 | 0.1 | <ul><li>created an app.</li></ul> |
 
 You can see details about version releases in `Program -> Versions -> Version 0.X`.
+
+| Versions topbar |
+|:-----------:|
+| <img src="screenshots/topbar_versions.png" width="100%"> |
