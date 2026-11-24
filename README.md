@@ -13,6 +13,10 @@ The application is **fully resizable** with the minimal size set.
 |:-----------:|:-------------:|:------------:|:------------------:|
 | <img src="screenshots/main.png" width="100%"> | <img src="screenshots/advancedMode.png" width="100%"> | <img src="screenshots/physicsMode.png" width="100%"> | <img src="screenshots/fullExtendedMode.png" width="100%"> |
 
+> [!NOTE]
+> This program was tested on Windows only (Windows 11).<br>
+> There is no guarantee that the program will work on other systems (eg. MacOS or Linux).
+
 ## Most useful keybinds:
 - `0` - `9` - numbers from 0 to 9
 - `Esc` - clear / clear all
