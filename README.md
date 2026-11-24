@@ -54,6 +54,12 @@ There are various themes you can set in Settings:
 |:-----------:|
 | <img src="screenshots/settings_appearance.png" width="100%"> |
 
+**Various themes examples:**
+
+| Red | Orange | Frost |
+|:---:|:------:|:-----:|
+| <img src="screenshots/themeRed.png" width="100%"> | <img src="screenshots/themeOrange.png" width="100%"> | <img src="screenshots/themeFrost.png" width="100%"> |
+
 ## History
 You can view and delete your history of performed equations in Settings.
 
