@@ -62,7 +62,7 @@ You can also edit all Physics constant variables in Settings.
 
 | VERSION | CHANGES |
 | -------- | ------- |
-| 0.2| <ul><li>added comma (`.`) new functionality based on what has already been writtem on calculator preventing repeated or wrong usage of comma;</li><li>added autofill with `0.` when clicking a comma button without any number behind it;</li><li>minor language fixes.</li></ul>|
+| 0.2| <ul><li>added comma (`.`) new functionality based on what has already been writtem on calculator preventing repeated or wrong usage of comma;</li><li>added autofill with `0.` when clicking a comma button without any number behind it;</li><li>supported the single file export (`.exe`);</li><li>minor language fixes.</li></ul>|
 | 0.1 | <ul><li>created an app.</li></ul> |
 
 You can see details about version releases in `Program -> Versions -> Version 0.X`.
