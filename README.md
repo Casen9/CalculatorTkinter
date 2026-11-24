@@ -17,7 +17,7 @@ The application is **fully resizable** with the minimal size set.
 > This program was tested on Windows only (Windows 11).<br>
 > There is no guarantee that the program will work on other systems (eg. MacOS or Linux).
 
-## Most useful keybinds:
+## Most useful keybinds
 - `0` - `9` - numbers from 0 to 9
 - `Esc` - clear / clear all
 - `Backspace` - erase last symbol
